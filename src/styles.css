@@ -180,6 +180,10 @@
 .slide-active {
   display: flex;
 }
+.redirect {
+  width: auto;
+  text-decoration: none;
+}
 .Content {
   font-size: 16px;
   font-family: Karla;
@@ -188,6 +192,7 @@
   text-transform: none;
   text-decoration: none;
 }
+
 @media(max-width: 991px) {
   .button {
     width: 100%;

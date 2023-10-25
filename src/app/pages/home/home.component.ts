@@ -7,13 +7,13 @@ import { Title, Meta } from '@angular/platform-browser'
   styleUrls: ['home.component.css'],
 })
 export class Home {
-  rawmv9o: string = ' '
-  raw844x: string = ' '
-  rawr8jc: string = ' '
-  raw88q5: string = ' '
-  rawf5db: string = ' '
-  rawce4t: string = ' '
-  rawcphk: string = ' '
+  rawg2du: string = ' '
+  rawtj9g: string = ' '
+  rawxn9p: string = ' '
+  rawzd9i: string = ' '
+  rawkl3u: string = ' '
+  rawu3h9: string = ' '
+  rawj5od: string = ' '
   constructor(private title: Title, private meta: Meta) {
     this.title.setTitle('WaterMonsterProject')
     this.meta.addTags([

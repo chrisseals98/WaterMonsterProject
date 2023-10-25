@@ -1629,6 +1629,21 @@
 .home-container17 {
   display: contents;
 }
+@media(max-width: 1200px) {
+  .home-heading {
+    color: rgb(34, 34, 35);
+    font-size: 70px;
+    font-style: normal;
+    font-family: Lora;
+    font-weight: 500;
+    line-height: 91px;
+  }
+  .home-caption {
+    color: rgb(34, 34, 35);
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
 @media(max-width: 991px) {
   .home-navlink1 {
     display: none;
