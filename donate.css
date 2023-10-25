@@ -232,22 +232,22 @@
   text-align: center;
   text-decoration: none;
 }
-.donate-link1 {
+.donate-link01 {
   align-self: center;
   text-align: center;
   text-decoration: none;
 }
-.donate-link2 {
+.donate-link02 {
   align-self: center;
   text-align: center;
   text-decoration: none;
 }
-.donate-link3 {
+.donate-link03 {
   align-self: center;
   text-align: center;
   text-decoration: none;
 }
-.donate-link4 {
+.donate-link04 {
   align-self: center;
   text-align: center;
   text-decoration: none;
@@ -483,8 +483,9 @@
   padding-right: 29px;
   background-color: rgb(0, 0, 0);
 }
-.donate-button3 {
+.donate-link05 {
   color: rgb(255, 255, 255);
+  text-decoration: none;
   background-color: rgb(0, 0, 0);
 }
 .donate-main {
@@ -540,7 +541,7 @@
   align-items: flex-start;
   flex-direction: row;
 }
-.donate-button4 {
+.donate-button3 {
   color: #F6F5ED;
   background-color: #000000;
 }
@@ -791,7 +792,7 @@
   flex-direction: row;
   justify-content: center;
 }
-.donate-button5 {
+.donate-button4 {
   cursor: pointer;
   display: flex;
   padding: var(--dl-space-space-twounits);
@@ -804,7 +805,7 @@
   justify-content: center;
   background-color: #ffffff;
 }
-.donate-button5:hover {
+.donate-button4:hover {
   fill: rgb(121, 212, 144) !important;
   box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.3);
   border-color: rgb(121, 212, 144);
@@ -1263,16 +1264,16 @@
   align-items: center;
   flex-direction: row;
 }
-.donate-link5 {
+.donate-link06 {
   text-decoration: none;
 }
-.donate-link6 {
+.donate-link07 {
   text-decoration: none;
 }
-.donate-link7 {
+.donate-link08 {
   text-decoration: none;
 }
-.donate-link8 {
+.donate-link09 {
   text-decoration: none;
 }
 .donate-middle {
@@ -1398,7 +1399,7 @@
   .donate-textinput {
     flex: 1;
   }
-  .donate-button6 {
+  .donate-button5 {
     width: 30%;
   }
   .donate-slider {
@@ -1513,7 +1514,7 @@
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
-  .donate-button4 {
+  .donate-button3 {
     display: none;
   }
   .donate-image1 {
@@ -1701,7 +1702,7 @@
     font-style: normal;
     font-weight: 500;
   }
-  .donate-button5 {
+  .donate-button4 {
     padding: var(--dl-space-space-unit);
   }
   .donate-icon10 {
@@ -1801,7 +1802,7 @@
     width: 100%;
     text-align: center;
   }
-  .donate-button6 {
+  .donate-button5 {
     width: 100%;
   }
   .donate-footer {
